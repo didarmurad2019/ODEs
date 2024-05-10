@@ -8,11 +8,11 @@ Table S1b. The concentration of entities explored from experimental studies and 
 Table S2.  For intervened disease state (INT-DS) modeling and analysis the drugs and targets.  
 
 The kinetic constants (parameters), reactions reference, and evidence details are provided in the document titled (Table S3a-Table S3e).pdf.
-Table S3a. The coagulation and fibrinolytic entities interaction kinetic constants.
-Table S3b. The complement entities interaction kinetic constants.
-Table S3c. The hemostatic systems cross-talk entities interaction kinetic constants.
-Table S3d. The hemostatic systems entities and SARS-CoV-2 structure proteins interaction kinetic constants.
-Table S3e. The Drug-Target interaction kinetic constants.
+Table S1a. The coagulation and fibrinolytic entities interaction kinetic constants.
+Table S1b. The complement entities interaction kinetic constants.
+Table S1c. The hemostatic systems cross-talk entities interaction kinetic constants.
+Table S1d. The hemostatic systems entities and SARS-CoV-2 structure proteins interaction kinetic constants.
+Table S1e. The Drug-Target interaction kinetic constants.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Model information: Ordinary differential equations (ODEs), Model expressions (reactions), and reaction rates. 
