@@ -2,12 +2,12 @@
 A brief introduction to each pathway of the hemostatic systems is presented in Materials and methods (Biochemical model Section 2.2) of the manuscript. 
 A complete report, including model species, kinetic constants, and reactions with reaction rates, is provided in File S1d (HTML format).
 
-Table S1a. Average gene expression values of the hemostatic systems entities acquired from the analysis of microarray dataset 
+Table S2a. Average gene expression values of the hemostatic systems entities acquired from the analysis of microarray dataset 
 (source: GEO accession GSE177477, Title: Type I interferon pathways in SARS-CoV-2-infected individuals from Pakistan)
-Table S1b. The concentration of entities explored from experimental studies and estimation.
+Table S2b. The concentration of entities explored from experimental studies and estimation.
 Table S2.  For intervened disease state (INT-DS) modeling and analysis the drugs and targets.  
 
-The kinetic constants (parameters), reactions reference, and evidence details are provided in the document titled (Table S3a-Table S3e).pdf.
+The kinetic constants (parameters), reactions reference, and evidence details are provided in the document titled (Table S1a-Table S1e).pdf.
 Table S1a. The coagulation and fibrinolytic entities interaction kinetic constants.
 Table S1b. The complement entities interaction kinetic constants.
 Table S1c. The hemostatic systems cross-talk entities interaction kinetic constants.
